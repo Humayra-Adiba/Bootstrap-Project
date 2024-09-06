@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FAFAFA;
+}
+
+.paga {
+  font-family: "Sevillana", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.pan{
+    font-family: cursive;
+}
+
+.large-text{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 78px;
+}
+
+::-webkit-scrollbar{
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #f50c0c;
+}
+
