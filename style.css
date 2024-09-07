@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+
 
 *{
     margin: 0;
@@ -20,18 +22,15 @@ body{
     font-family: cursive;
 }
 
-.large-text{
-    font-size: 60px;
-    font-weight: 700;
-    line-height: 78px;
-}
-
 ::-webkit-scrollbar{
-    width: 6px;
-    height: 6px;
+    width: 7px;
+    height: 10px;
 }
 
 ::-webkit-scrollbar-thumb{
     background: #f50c0c;
 }
 
+.hgu{
+    font-family: "Sofia", cursive;
+}
